@@ -1,0 +1,6 @@
+"Luke Wilson","14wilsonluk@poolegrammar.com","07523562434","Poole Grammar School","18/11/2020","P1","Owner"
+"John Smith","john@poolegrammar.com","07483543842","Apple","20/11/2020","P2","Likes cars"
+"Jeff Bezos","jeff@amazon.com","0728472482","Amazon","19/01/2021","P4","rich"
+"Elon Musk","elonmusk@tesla.com","9934829484","Tesla","19/01/2021","P5","the richest"
+"Johnny Lee James","johnnyleejames07@gmail.com","999","the rig shop","01/02/2021","P6","good lad"
+"Connor Hewitt","connorhewitt@gmail.com","07885180432","Netflix","10/02/2021","P10","works at netflix"

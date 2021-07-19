@@ -1,0 +1,7 @@
+"G234","Green A4",10,2
+"G235","Green A5",6,2
+"Y234","Yellow A4",10,10
+"Y235","Yellow A5",6,2
+"B234","Blue A4",10,4
+"B235","Blue A5",6,4
+"O234","Orange A4",10,8

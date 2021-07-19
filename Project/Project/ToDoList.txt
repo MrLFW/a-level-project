@@ -1,0 +1,3 @@
+﻿get customer ID from selected row
+find all orders with that customer ID from orders.txt
+every row with correct customer ID, put on orders table
